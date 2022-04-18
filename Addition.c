@@ -6,12 +6,12 @@
 //Input:          Integer ,Integer
 //Output:         Integer
 //@Author:        Kishan Vivek Jawale
-//Description:    This is the First code written in Logic Building Batch
-//Date:           12/04/2022
+//Description:    This function accepts 2 interger values and return their Addition
+//Date:           18/04/2022
 //
 /////////////////////////////////////////////////////////////////////
 
-int Addition(int First,int Second)//User Defined Function
+int Addition(int First,int Second)      //Helper Function
 {
     
 //Updater Start
